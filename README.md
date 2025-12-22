@@ -17,15 +17,14 @@ This project is designed as a portfolio-ready example for internships, highlight
 - 📌 Track monthly profit trends and customer behavior patterns.
 - 📌 Provide actionable insights for business decision-making.
 
+## 📸 Dashboard Preview
+![Ecommerce Sales Dashboard](Ecommerce_sales_analysis.png)
+  
 ## 📂 Dataset Information
 - Source: Kaggle
 - Type: E-commerce Sales Data
 - Format: CSV
 - Scope: Orders, Customers, Products, Payments, Profit
-
-## 📸 Dashboard Preview
-![Ecommerce Sales Dashboard](Ecommerce_sales_analysis.png)
-
 
 ## ⚡ Dashboard Features & Visualizations
 ### 📊 KPI Cards
