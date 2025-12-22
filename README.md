@@ -23,6 +23,10 @@ This project is designed as a portfolio-ready example for internships, highlight
 - Format: CSV
 - Scope: Orders, Customers, Products, Payments, Profit
 
+## 📸 Dashboard Preview
+![Ecommerce Sales Dashboard](Ecommerce_sales_analysis.png)
+
+
 ## ⚡ Dashboard Features & Visualizations
 ### 📊 KPI Cards
 - 💰 Total Sales Amount
@@ -59,9 +63,6 @@ This project is designed as a portfolio-ready example for internships, highlight
 - 💾 Export the cleaned dataset to CSV
 - 📊 Load the dataset into Power BI
 - 🖱 Open the `.pbix` file to explore the interactive dashboard
-
-## 📸 Dashboard Preview
-![Ecommerce Sales Dashboard](Ecommerce_sales_analysis.png)
 
 ## 🧠 Skills Demonstrated
 - 🧹 Data cleaning & preprocessing
