@@ -61,7 +61,7 @@ This project is designed as a portfolio-ready example for internships, highlight
 - 🖱 Open the `.pbix` file to explore the interactive dashboard
 
 ## 📸 Dashboard Preview
-![Ecommerce Sales Dashboard](Ecommerce_dashboard.png)
+![Ecommerce Sales Dashboard](Ecommerce_sales_analysis.png)
 
 ## 🧠 Skills Demonstrated
 - 🧹 Data cleaning & preprocessing
