@@ -12,13 +12,14 @@ The project demonstrates the complete data analytics lifecycle:
 
 This project is designed as a portfolio-ready example for internships, highlighting practical skills in sales analysis, business insights, and dashboard design.
 
+## 📸 Dashboard Preview
+![Ecommerce Sales Dashboard](Ecommerce_sales_analysis.png)
+
 ## 🧩 Project Objective
 - 📌 Identify top-selling products, high-performing regions, and profitable categories.
 - 📌 Track monthly profit trends and customer behavior patterns.
 - 📌 Provide actionable insights for business decision-making.
 
-## 📸 Dashboard Preview
-![Ecommerce Sales Dashboard](Ecommerce_sales_analysis.png)
   
 ## 📂 Dataset Information
 - Source: Kaggle
